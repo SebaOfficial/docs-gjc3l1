@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-045n0p.biggamingwin.xyz/sitemap.xml
